@@ -4,7 +4,7 @@ Our QR Code Generator is a powerful and user-friendly tool designed to help you 
 
 Key Features:
 ✅ Easy to Use – Generate QR codes in just a few clicks with an intuitive interface.
-✅ Multiple Data Types – Supports URLs, text, email, phone numbers, Wi-Fi credentials, and more.
+✅ Data Types – Supports URLs
 ✅ High-Quality Output – Export QR codes in various formats (PNG, SVG, etc.) for professional use.
 ✅ Offline Functionality – Generate QR codes without requiring an internet connection.
 
