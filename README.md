@@ -6,8 +6,6 @@
 
 A powerful, user-friendly Windows desktop application for generating QR codes quickly and efficiently. Built with C# and Windows Forms, this application provides a seamless experience for creating QR codes for various purposes.
 
-![QR Code Generator App Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - **Simple & Intuitive Interface**: Generate QR codes with just a few clicks
@@ -77,6 +75,20 @@ Contributions are welcome! Feel free to:
 ## 📞 Support
 
 If you encounter any issues or have questions, please [open an issue](https://github.com/Cracked-oss/QRCodeGeneratorApp/issues) on GitHub.
+
+## 💰 Support My Work
+
+If you find this project helpful and want to support my work, you can contribute through:
+
+### 💎 Crypto Donations
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
+|:---:|
+| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
+| USDT (TRC20 Network) |
+
+
+### Buy Me a Coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
 ---
 
