@@ -88,6 +88,10 @@ Contributions are welcome! Feel free to:
 
 ## 📞 Support
 
+## 📫 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hex_Code)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hexcode.832203/)
+
 If you encounter any issues or have questions, please [open an issue](https://github.com/Cracked-oss/QRCodeGeneratorApp/issues) on GitHub.
 
 Made with ❤️ by [Cracked-oss](https://github.com/Cracked-oss)
